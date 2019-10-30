@@ -2,6 +2,5 @@
 null,
 {"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"Sheran","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":3,"equips":[2,1,2,3,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Fanny","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":4,"equips":[3,0,2,3,4],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Figur","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":2,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ilusion","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":4,"equips":[3,0,2,3,4],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Figur","nickname":"","note":"","profile":""}
 ]
