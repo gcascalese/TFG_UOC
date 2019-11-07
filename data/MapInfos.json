@@ -2,13 +2,15 @@
 null,
 {"id":1,"expanded":false,"name":"002_Barco_Inicio","order":2,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":2,"expanded":false,"name":"001_Fondo_Negro","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":3,"expanded":false,"name":"003_Mundo","order":3,"parentId":0,"scrollX":946.6666666666666,"scrollY":1096},
+{"id":3,"expanded":false,"name":"003_Mundo","order":3,"parentId":0,"scrollX":1390.2857142857142,"scrollY":889.7142857142857},
 {"id":4,"expanded":false,"name":"004_Cueva_Cristal","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1049.3333333333333},
 {"id":5,"expanded":false,"name":"005_Respawn","order":5,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":6,"expanded":false,"name":"006_Reino de Clariate","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":928},
+{"id":6,"expanded":false,"name":"006_Reino de Clariate","order":6,"parentId":0,"scrollX":1390,"scrollY":890},
 {"id":7,"expanded":false,"name":"007_Posada","order":7,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":8,"expanded":false,"name":"008_Ruinas de Despaire","order":8,"parentId":0,"scrollX":1318.6666666666667,"scrollY":836},
 {"id":9,"expanded":false,"name":"009_Ruinas de Despaire_P1","order":9,"parentId":0,"scrollX":1318.6666666666667,"scrollY":836},
 {"id":10,"expanded":false,"name":"010_Ruinas de Despaire_P2","order":10,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":11,"expanded":false,"name":"011_Castillo_Clariate","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1065.3333333333333}
+{"id":11,"expanded":false,"name":"011_Castillo_Clariate","order":11,"parentId":0,"scrollX":848,"scrollY":640},
+{"id":12,"expanded":false,"name":"012_Recuerdo_Markius","order":12,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":13,"expanded":false,"name":"013_Torre_Castillo","order":13,"parentId":0,"scrollX":832,"scrollY":640}
 ]
